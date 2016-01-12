@@ -1,10 +1,11 @@
 <?php 
+	namespace box_com;
 	define( '_CODENAME', 'BoxPHPAPI'); 
 	define( '_VERSION', '1.0.7'); 
 	define( '_URL', 'https://github.com/golchha21/BoxPHPAPI');
 	error_reporting(E_ERROR);
 	
-	class Box_API {
+	class Client {
 		
 		public $client_id 		= '';
 		public $client_secret 	= '';
