@@ -5,7 +5,7 @@
     "keywords": ["Box","BoxAPI","PHP","API"],
     "homepage": "http://www.ulhas.net/GitHub/BoxPHPAPI/",
     "license": "Apache-2.0",
-    "version":"1.0.0",
+    "version":"1.0.1",
     "authors": [
         {
             "name": "Ulhas Vardhan Golchha",
@@ -15,7 +15,7 @@
     ],
     "autoload": {
         "psr-0": {
-            "box_com":"library/"
+            "box_com\\":"library/"
         }
     },
     "support": {
