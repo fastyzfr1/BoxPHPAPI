@@ -1,5 +1,5 @@
 <?php
-	include('library/BoxAPI.class.php');
+	include 'library/box_com/Client.php';
 
 	$client_id		= 'CLIENT ID';
 	$client_secret 	= 'CLIENT SECRET';
