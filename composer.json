@@ -15,7 +15,8 @@
     ],
     "autoload": {
         "psr-0": {
-            "box_com\\":"library/"
+            "box_com\\":"library/",
+            "":library
         }
     },
     "support": {
