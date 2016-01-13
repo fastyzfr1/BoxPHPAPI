@@ -1,6 +1,6 @@
 {
     "name": "fastyzfr1/boxphpapi",
-    "type": "API",
+    "type": "library",
     "description": "Unofficial BoxPHPAPI v2",
     "keywords": ["Box","BoxAPI","PHP","API"],
     "homepage": "http://www.ulhas.net/GitHub/BoxPHPAPI/",
