@@ -17,7 +17,7 @@
         "psr-0": {
             "box_com":"library/"
         }
-    }
+    },
     "support": {
         "issues": "https://github.com/golchha21/BoxPHPAPI/issues",
         "source": "https://github.com/golchha21/BoxPHPAPI"
